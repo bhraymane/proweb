@@ -5,8 +5,8 @@ import Testimonials from '@/components/sections/testimonials';
 import CTA from '@/components/sections/cta';
 
 export const metadata = {
-  title: 'E-Web Pages | Agence de Développement Web',
-  description: 'E-Web Pages est une agence spécialisée dans le développement web, l\'optimisation SEO et la formation numérique.'
+  title: 'Pro-Web  | Agence de Développement Web',
+  description: 'Pro-Web  est une agence spécialisée dans le développement web, l&aposoptimisation SEO et la formation numérique.'
 };
 
 export default function Home() {
