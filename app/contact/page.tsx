@@ -4,13 +4,12 @@ import Image from 'next/image';
 function page() {
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* SEO Metadata */}
 
       {/* Hero Section */}
       <section className="relative bg-indigo-600 text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
-          <p className="text-lg">We'd love to hear from you! Reach out to us today.</p>
+          <p className="text-lg">We&apos;d love to hear from you! Reach out to us today.</p>
         </div>
 
         <div className="absolute inset-0">
