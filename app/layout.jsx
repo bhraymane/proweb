@@ -14,7 +14,7 @@ export const metadata = {
     default: 'X-Web | Agence de Développement Web',
     template: '%s | X-Web'
   },
-  description: 'X-Web est une agence spécialisée dans le développement web, l\'optimisation SEO et la formation numérique.',
+  description: 'X-Web est une agence spécialisée dans le développement web, l&aposoptimisation SEO et la formation numérique.',
   keywords: ['développement web', 'SEO', 'formation numérique', 'agence web', 'création site internet'],
   authors: [{ name: 'X-Web' }],
   creator: 'X-Web',
@@ -29,13 +29,13 @@ export const metadata = {
     locale: 'fr_FR',
     url: 'https://www.x-Web.vercel.app/',
     title: 'X-Web | Agence de Développement Web',
-    description: 'X-Web est une agence spécialisée dans le développement web, l\'optimisation SEO et la formation numérique.',
+    description: 'X-Web est une agence spécialisée dans le développement web, l&aposoptimisation SEO et la formation numérique.',
     siteName: 'X-Web',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'X-Web | Agence de Développement Web',
-    description: 'X-Web est une agence spécialisée dans le développement web, l\'optimisation SEO et la formation numérique.',
+    description: 'X-Web est une agence spécialisée dans le développement web, l&aposoptimisation SEO et la formation numérique.',
   },
   icons: {
     icon: '/favicon.ico',

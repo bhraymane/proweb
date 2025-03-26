@@ -2,8 +2,8 @@ import Image from 'next/image';
 
 
 export const metadata = {
-  title: 'Notre Agence | E-Web Pages',
-  description: 'Découvrez E-Web Pages, une agence web spécialisée dans la création de sites web modernes, le référencement SEO et la formation numérique.'
+  title: 'Notre Agence | Pro-Web ',
+  description: 'Découvrez Pro-Web, une agence web spécialisée dans la création de sites web modernes, le référencement SEO et la formation numérique.'
 };
 
 export default function AgencyPage() {
